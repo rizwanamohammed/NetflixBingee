@@ -1,2 +1,3 @@
 # NetflixBingee
-Created with CodeSandbox
+Made Netflix Recommendations app using ReactJS.
+
