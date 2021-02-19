@@ -15,7 +15,7 @@ export default function App() {
       <header className="hero-image">
         <div style={{ color }}>
           <h1>NETFLIX BINGE</h1>
-          <p>Chose a genre of your choice. Get the recomendations and Binge!</p>
+          <p>Chose a genre of your choice. Get the recommendations and Binge!</p>
           <div>
             {Object.keys(recoDB).map((category) => (
               <button onClick={() => categoryClickHandler(category)}>
